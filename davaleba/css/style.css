@@ -1,0 +1,50 @@
+h2{
+	color: #fa6980;
+	font-weight: bold;
+	font-size: 13px;
+	display: inline-block;
+}
+h2, nav {
+	display: inline-block;
+}
+li {
+	color: #343638;
+	font-size: 11px;
+}
+.home {
+	color: black;
+	font-weight: bold;
+}
+.first, img {
+	display: inline-block;
+	margin: 26px;
+	vertical-align: middle;
+}
+h1 {
+	font-weight: bold;
+	font-size: 24px;
+}
+.left, .middle, .right {
+	display: inline-block;
+	margin: 0 auto;
+}
+.card {
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+.left1, .right1 {
+	display: inline-block;
+	vertical-align: middle;
+}
+footer {
+	background-color: gray;
+}
+.line1, .line2, .line3, .tex {
+	display: inline-block;
+}
+ul, div {
+	display: inline-block;
+}
